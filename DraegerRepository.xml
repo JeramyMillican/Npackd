@@ -1,0 +1,14 @@
+<root>
+    <spec-version>2</spec-version>
+    <package name="UploadXT Standard"> 
+        <title>UploadXT Standard</title>
+        <url>https://github.com/JeramyMillican/UploadXT/blob/master/UploadXT_Update_April2017.exe</url>
+        <description>UploadXT Standard</description>
+        <icon></icon>
+        <license></license>
+    </package>
+    <version name="1" package="com.googlecode.windows-package-manager.Test">
+        <url>https://github.com/JeramyMillican/UploadXT/blob/master/UploadXT_Update_April2017.exe</url>
+        <sha1></sha1>
+    </version>
+</root>

@@ -7,7 +7,7 @@
         <icon>https://raw.githubusercontent.com/JeramyMillican/UploadXT/master/UploadXT_Standard_April2017/Icon/XT.ico</icon>
         <license>Freeware</license>
     </package>
-    <version name="2.26.12.0" package="UploadXT-Standard">
+    <version name="2.26.12.0" package="UploadXT-Standard" type="one-file">
         <url>https://github.com/JeramyMillican/UploadXT/blob/master/UploadXT_Standard_April2017/UploadXT_Update_April2017.exe?raw=true</url>
         <sha1></sha1>
     </version>
